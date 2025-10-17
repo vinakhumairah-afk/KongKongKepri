@@ -54,7 +54,7 @@ body {
 
 .product-image img {
   width: 320px;
-  height: 640px;
+  height: auto;
   border-radius: 10px;
 }
 
@@ -131,4 +131,5 @@ body {
 .buy-now:hover {
   background-color: #0056b3;
 }
+
 
